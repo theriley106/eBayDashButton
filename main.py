@@ -15,7 +15,7 @@ if __name__ == "__main__":
 			  {}:
 			    name: test
 			    user: test
-			    cmd: python interactions.py {}
+			    cmd: python controller.py {}
 			    '''.format(delay, mac, itemNum)
 			file.write(config) 
 			file.close()
