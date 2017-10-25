@@ -1,6 +1,3 @@
-import requests
-import bs4
-import time
 from selenium import webdriver
 import sys
 
